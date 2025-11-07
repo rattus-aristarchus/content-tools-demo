@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"2fd4fd2bae641520","type":"file","file":"чистовики/1. Нейросети на этапе исследования.md","collapsed":true,"x":40,"y":-260,"width":414,"height":240},
+		{"alias":"исследование","id":"133b5245cbae5881","type":"text","text":"","collapsed":true,"x":-398,"y":-229,"width":250,"height":140},
+		{"collapsed":true,"id":"3c7571bda6181c67","type":"file","file":"чистовики/2. Систематизация знаний в Obsidian.md","x":40,"y":-180,"width":400,"height":400},
+		{"collapsed":true,"id":"52a94453a6766e60","type":"file","file":"чистовики/3. Написание текста в Cursor.md","x":40,"y":-100,"width":400,"height":400},
+		{"alias":"написание текста","id":"ff7dfb7e5f2221bd","type":"text","text":"","collapsed":true,"x":-398,"y":-70,"width":250,"height":140},
+		{"collapsed":true,"id":"ff04cb76113226c7","type":"file","file":"чистовики/4. Использование Cursor для перевода.md","x":40,"y":0,"width":400,"height":400},
+		{"collapsed":true,"id":"c4c8a1fa0aa20c19","type":"file","file":"чистовики/5. GitHub и работа с контентом.md","x":40,"y":100,"width":400,"height":400},
+		{"collapsed":true,"id":"096e2de7f632d24a","type":"file","file":"чистовики/6. Подключение ChatGPT к репозиторию с GitHub.md","x":40,"y":200,"width":400,"height":400},
+		{"alias":"хранение данных","collapsed":true,"id":"03ea8db0d0cc7569","type":"text","text":"","x":-398,"y":130,"width":250,"height":140}
+	],
+	"edges":[
+		{"id":"791edc69925e6a0d","fromNode":"2fd4fd2bae641520","fromSide":"left","toNode":"133b5245cbae5881","toSide":"right"},
+		{"id":"959b34e3854bb03a","fromNode":"3c7571bda6181c67","fromSide":"left","toNode":"133b5245cbae5881","toSide":"right"},
+		{"id":"535c741f8f2e4069","fromNode":"52a94453a6766e60","fromSide":"left","toNode":"ff7dfb7e5f2221bd","toSide":"right"},
+		{"id":"a88369b801f8aab8","fromNode":"ff04cb76113226c7","fromSide":"left","toNode":"ff7dfb7e5f2221bd","toSide":"right"},
+		{"id":"c8d6f4cac66215a6","fromNode":"c4c8a1fa0aa20c19","fromSide":"left","toNode":"03ea8db0d0cc7569","toSide":"right"},
+		{"id":"e3499bba75573886","fromNode":"096e2de7f632d24a","fromSide":"left","toNode":"03ea8db0d0cc7569","toSide":"right"}
+	]
+}
