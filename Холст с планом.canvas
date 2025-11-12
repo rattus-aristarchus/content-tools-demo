@@ -8,7 +8,8 @@
 		{"collapsed":true,"id":"ff04cb76113226c7","type":"file","file":"чистовики/4. Использование Cursor для перевода.md","x":40,"y":0,"width":400,"height":400},
 		{"collapsed":true,"id":"c4c8a1fa0aa20c19","type":"file","file":"чистовики/5. GitHub и работа с контентом.md","x":40,"y":100,"width":400,"height":400},
 		{"collapsed":true,"id":"096e2de7f632d24a","type":"file","file":"чистовики/6. Подключение ChatGPT к репозиторию с GitHub.md","x":40,"y":200,"width":400,"height":400},
-		{"alias":"хранение данных","collapsed":true,"id":"03ea8db0d0cc7569","type":"text","text":"","x":-398,"y":130,"width":250,"height":140}
+		{"alias":"хранение данных","collapsed":true,"id":"03ea8db0d0cc7569","type":"text","text":"","x":-398,"y":130,"width":250,"height":140},
+		{"id":"462e6bd92cb7c4a5","type":"text","text":"Рассказать о подключении chatGPT к Cursor","x":-539,"y":-538,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"791edc69925e6a0d","fromNode":"2fd4fd2bae641520","fromSide":"left","toNode":"133b5245cbae5881","toSide":"right"},
